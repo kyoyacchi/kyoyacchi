@@ -13,4 +13,3 @@
 <a href="https://myanimelist.net/profile/kyoyatempest"><img src="https://malsignature.com/?/view?username=kyoyatempest&style=normal"></a>
 <br />
 <hr/>
-
