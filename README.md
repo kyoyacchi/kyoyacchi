@@ -1,5 +1,3 @@
-![gif](https://cdn.discordapp.com/emojis/895406099279269928.gif?size=44)
-
 ![](https://readme-typing-svg.herokuapp.com/?font=segoe+UI&color=FFFFFF&size=30&width=800&height=80&lines=Hello+there!)
 
 ![Discord](https://discord.c99.nl/widget/theme-4/468509605828493322.png)
