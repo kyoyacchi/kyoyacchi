@@ -8,4 +8,6 @@
 <img src="https://dcbadge.vercel.app/api/shield/468509605828493322?style=flat-square&compact=true">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kyoyacchi?label=%40kyoyacchi&logo=twitter&style=flat-square)
+![Pinterest](https://img.shields.io/static/v1?label=pinterest&message=kyoyacchi&color=red&style=flat-square&logo=pinterest)
+
 </div>
