@@ -7,10 +7,10 @@
 <div align="center">
 <img src="https://dcbadge.vercel.app/api/shield/468509605828493322?style=flat-square&compact=true">
 
-![Twitter Follow](https://img.shields.io/twitter/follow/kyoyacchi?label=%40kyoyacchi&logo=twitter&style=flat-square)
-![Pinterest](https://img.shields.io/static/v1?label=pinterest&message=kyoyacchi&color=red&style=flat-square&logo=pinterest)
-![MAL](https://img.shields.io/static/v1?label=&message=kyoyatempest&color=2E51A2&style=flat-square&logo=myanimelist)
-![AniList](https://img.shields.io/static/v1?style=float-square&message=kyoyacchi&color=02A9FF&logo=AniList&logoColor=FFFFFF&label=)
-
+[![Twitter](https://img.shields.io/twitter/follow/kyoyacchi?label=%40kyoyacchi&logo=twitter&style=flat-square)](https://twitter.com/kyoyacchi)
+[![Pinterest](https://img.shields.io/static/v1?label=&message=kyoyacchi&color=red&logo=pinterest&logoColor=white)](https://tr.pinterest.com/kyoyacchi/)
+[![Instagram](https://img.shields.io/static/v1?label=&message=%40kyoyacchi&color=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/kyoyacchi/)
+[![MAL](https://img.shields.io/static/v1?label=&message=kyoyatempest&color=2E51A2&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/kyoyatempest)
+[![AniList](https://img.shields.io/static/v1?label=&message=kyoyacchi&color=02A9FF&logo=anilist&logoColor=white)](https://anilist.co/user/kyoyacchi/)
 
 </div>
