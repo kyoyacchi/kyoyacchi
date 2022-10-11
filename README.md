@@ -9,6 +9,10 @@
 
 [![Discord](https://dcbadge.vercel.app/api/shield/468509605828493322?style=flat-square&compact=true)](https://discordapp.com/users/468509605828493322/)
 
+<p align="center">
+<img src="https://lanyard.cnrad.dev/api/468509605828493322?idleMessage=Probably%20watching%20anime/hanime">
+</p>
+
 [![Twitter](https://img.shields.io/twitter/follow/kyoyacchi?label=%40kyoyacchi&logo=twitter&style=flat-square)](https://twitter.com/kyoyacchi)
 [![Instagram](https://img.shields.io/static/v1?label=&message=%40kyoyacchi&color=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/kyoyacchi/)
 [![Pinterest](https://img.shields.io/static/v1?label=&message=kyoyacchi&color=red&logo=pinterest&logoColor=white)](https://pinterest.com/kyoyacchi/)
