@@ -8,7 +8,6 @@
 <!--<img src="https://dcbadge.vercel.app/api/shield/468509605828493322?style=flat-square&compact=true">-->
 
 [![Discord](https://dcbadge.vercel.app/api/shield/468509605828493322?style=flat-square&compact=true)](https://discordapp.com/users/468509605828493322/)
-
 [![Discord](https://discordapp.com/api/guilds/1020705385411264525/embed.png)](https://discord.gg/dveQtqx)
 
 <p align="center">
