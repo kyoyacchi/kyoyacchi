@@ -1,4 +1,4 @@
-<a name="kyoyacchi metrics"><img src="https://github.com/kyoyacchi/kyoyacchi/blob/master/github-metrics.svg" alt="my metrics created with lowlighter/metrics"></a>
+<!--<a name="kyoyacchi metrics"><img src="https://github.com/kyoyacchi/kyoyacchi/blob/master/github-metrics.svg" alt="my metrics created with lowlighter/metrics"></a>-->
 
 <img src="https://count.getloli.com/get/@kyoyacchi?theme=rule34" alt="kyoyacchi"/>
 
@@ -8,6 +8,8 @@
 <!--<img src="https://dcbadge.vercel.app/api/shield/468509605828493322?style=flat-square&compact=true">-->
 
 [![Discord](https://dcbadge.vercel.app/api/shield/468509605828493322?style=flat-square&compact=true)](https://discordapp.com/users/468509605828493322/)
+
+[![Discord](https://discordapp.com/api/guilds/1020705385411264525/embed.png)](https://discord.gg/dveQtqx)
 
 <p align="center">
 <img src="https://lanyard.cnrad.dev/api/468509605828493322?idleMessage=Probably%20watching%20anime/hanime">
