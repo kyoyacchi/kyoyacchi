@@ -11,7 +11,12 @@
 [![Discord](https://discordapp.com/api/guilds/1020705385411264525/embed.png)](https://discord.gg/dveQtqx)
 
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/468509605828493322?idleMessage=Probably%20watching%20anime/hanime">
+
+
+<!-- <img src="https://lanyard.cnrad.dev/api/468509605828493322?idleMessage=Probably%20watching%20anime/hanime"> -->
+
+
+[![Discord](https://discord.c99.nl/widget/theme-2/468509605828493322.png)](https://discordapp.com/users/468509605828493322/)
 </p>
 
 [![Twitter](https://img.shields.io/twitter/follow/kyoyacchi?label=%40kyoyacchi&logo=twitter&style=flat-square)](https://twitter.com/kyoyacchi)
