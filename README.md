@@ -27,4 +27,3 @@
 [![Kitsu](https://img.shields.io/static/v1?label=&message=kyoyacchi&color=FD755C&logo=kitsu&logoColor=white)](https://kitsu.io/users/kyoyacchi)
 [![GitLab](https://img.shields.io/static/v1?label=&message=kyoyacchi&color=FC6D26&logo=gitlab)](https://gitlab.com/kyoyacchi)
 </div>
-.
