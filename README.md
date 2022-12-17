@@ -4,7 +4,7 @@
 [![Discord](https://discordapp.com/api/guilds/1020705385411264525/embed.png)](https://discord.gg/dveQtqx)
 
 
-
+![Roxy](https://us-east-1.tixte.net/uploads/kyoya.needs.rest/Roxy.jpg)
 
 [![Twitter](https://img.shields.io/twitter/follow/kyoyacchi?label=%40kyoyacchi&logo=twitter&style=flat-square)](https://twitter.com/kyoyacchi)
 [![Instagram](https://img.shields.io/static/v1?label=&message=%40kyoyacchi&color=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/kyoyacchi/)
