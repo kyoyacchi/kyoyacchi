@@ -6,6 +6,8 @@
 
 ![Roxy](https://us-east-1.tixte.net/uploads/kyoya.needs.rest/Roxy.jpg)
 
+**__Hi! I love watching anime and coding!__**
+
 [![Twitter](https://img.shields.io/twitter/follow/kyoyacchi?label=%40kyoyacchi&logo=twitter&style=flat-square)](https://twitter.com/kyoyacchi)
 [![Instagram](https://img.shields.io/static/v1?label=&message=%40kyoyacchi&color=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/kyoyacchi/)
 [![Pinterest](https://img.shields.io/static/v1?label=&message=kyoyacchi&color=red&logo=pinterest&logoColor=white)](https://pinterest.com/kyoyacchi/)
