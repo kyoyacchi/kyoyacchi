@@ -4,7 +4,6 @@
 [![Discord](https://discordapp.com/api/guilds/1020705385411264525/embed.png)](https://discord.gg/dveQtqx)
 
 
-
 [![Roxy](https://us-east-1.tixte.net/uploads/kyoya.needs.rest/Roxy.jpg)](https://kyoya.ga/)
 
 **__Hi! I love watching anime and coding!__**
