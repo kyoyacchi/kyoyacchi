@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Discord](https://discord-md-badge.vercel.app/api/shield/468509605828493322?style=social)](https://discordapp.com/users/468509605828493322)
-[![Discord](https://discordapp.com/api/guilds/1020705385411264525/embed.png)](https://discord.gg/dveQtqx)
+[![Discord](https://discordapp.com/api/guilds/1020705385411264525/embed.png)](https://bit.ly/kyo-discord)
 
 
 [![Roxy](https://us-east-1.tixte.net/uploads/kyoya.needs.rest/Roxy.jpg)](https://kyoya.ga/)
