@@ -4,7 +4,7 @@
 [![Discord Server](https://discordapp.com/api/guilds/1020705385411264525/embed.png)](https://kyoya.ga/discord)
 
 
-[![Roxy](https://us-east-1.tixte.net/uploads/kyoya.needs.rest/Roxy.jpg)](https://kyoya.ga/)
+[![Ai](https://us-east-1.tixte.net/uploads/kyoya.discowd.com/Ai.png)](https://kyoya.ga/)
 
 **__Hi!__**
 
