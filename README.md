@@ -11,6 +11,5 @@
 [![MyAnimeList](https://img.shields.io/static/v1?label=&message=KyoyaTempest&color=2E51A2&logo=myanimelist&logoColor=white)](https://kyoya.ga/mal)
 [![AniList](https://img.shields.io/static/v1?label=&message=kyoyacchi&color=02A9FF&logo=anilist&logoColor=white)](https://anilist.co/user/kyoyacchi/)
 [![Kitsu](https://img.shields.io/static/v1?label=&message=kyoyacchi&color=FD755C&logo=kitsu&logoColor=white)](https://kitsu.io/users/kyoyacchi)
-[![GitLab](https://img.shields.io/static/v1?label=&message=kyoyacchi&color=FC6D26&logo=gitlab)](https://gitlab.com/kyoyacchi)
 [![Pinterest](https://img.shields.io/static/v1?label=&message=kyoyacchi&color=red&logo=pinterest&logoColor=white)](https://pinterest.com/kyoyacchi/)
 </div>
