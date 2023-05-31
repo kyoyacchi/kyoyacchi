@@ -6,7 +6,7 @@
 
 [![Ai](https://us-east-1.tixte.net/uploads/kyoya.discowd.com/Ai.png)](https://kyoya.ga/)
 
-  <a href="https://discord.com/users/468509605828493322"><img align="center" alt="Discord"
+  <a href="https://discord.com/users/468509605828493322" target="_blank"><img align="center" alt="Discord"
         src="https://lanyard.cnrad.dev/api/468509605828493322?bg=23283d&borderRadius=8px&hideDiscrim=false" /></a>
   
 **__Hi!__**
