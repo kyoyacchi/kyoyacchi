@@ -8,7 +8,7 @@
 [![Ai](https://us-east-1.tixte.net/uploads/kyoya.discowd.com/Ai.png)](https://kyoya.ga/)
 #
   <a href="https://discord.com/users/468509605828493322" target="_blank"><img align="center" alt="Discord"
-        src="https://lanyard.cnrad.dev/api/468509605828493322?bg=141321&borderRadius=8px&hideDiscrim=false" /></a>
+        src="https://lanyard.cnrad.dev/api/468509605828493322?bg=141321&borderRadius=8px&hideDiscrim=true" /></a>
 #
  **__Hi!__**
 <p> Hi there! I'm Kyoya! I love watching anime and coding.
