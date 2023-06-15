@@ -11,7 +11,7 @@
         src="https://lanyard.cnrad.dev/api/468509605828493322?bg=141321&borderRadius=8px&hideDiscrim=true" /></a>
 #
  **__Hi!__**
-<p> Hi there! I'm Kyoya! I love watching anime and coding (mostly with spaghetti codes)
+<p> Hi there! I'm Kyoya! I love watching anime and coding (mostly spaghetti codes)
 
 </p>
 
