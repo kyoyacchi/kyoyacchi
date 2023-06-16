@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<!--
+
 [![Discord Server](https://discordapp.com/api/guilds/1020705385411264525/embed.png)](https://kyoyacchi.github.io/discord)
--->
+
 
 [![Ai](https://us-east-1.tixte.net/uploads/kyoya.discowd.com/Ai.png)](https://kyoyacchi.github.io)
 #
