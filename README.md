@@ -14,6 +14,13 @@
 
 </p>
 
+
+<a href="https://anime.plus/KyoyaTempest">
+    <img src="https://anime.plus/KyoyaTempest/WzEsIjAwNDRmZjQ0IiwiMDAwMDg4MDAiLCIwMDAwNDQwMCIsIjAwMDA4ODAwIiwiMDAwMDAwMDAiLCIyMDQ0ZmY0NCIsIjAwMDA4ODAwIiwiMDAzM2FhMzMiLCIwMDMzYWEzMyJd/1695338297" alt="KyoyaTempest">
+</a>
+
+
+
 [![MyAnimeList](https://img.shields.io/static/v1?label=&message=KyoyaTempest&color=2E51A2&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/kyoyatempest)
 [![AniList](https://img.shields.io/static/v1?label=&message=kyoyacchi&color=02A9FF&logo=anilist&logoColor=white)](https://anilist.co/user/kyoyacchi/)
 [![Kitsu](https://img.shields.io/static/v1?label=&message=kyoyacchi&color=FD755C&logo=kitsu&logoColor=white)](https://kitsu.io/users/kyoyacchi)
