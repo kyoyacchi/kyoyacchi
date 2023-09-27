@@ -19,6 +19,7 @@
     <img src="https://anime.plus/KyoyaTempest/WzEsIjAwNDRmZjQ0IiwiMDAwMDg4MDAiLCIwMDAwNDQwMCIsIjAwMDA4ODAwIiwiMDAwMDAwMDAiLCIyMDQ0ZmY0NCIsIjAwMDA4ODAwIiwiMDAzM2FhMzMiLCIwMDMzYWEzMyJd/1695338297" alt="KyoyaTempest">
 </a>
 
+<a href="https://malheatmap.com/users/KyoyaTempest"><img src="https://malheatmap.com/users/KyoyaTempest/signature" alt="MyAnimeList"></a>
 
 
 [![MyAnimeList](https://img.shields.io/static/v1?label=&message=KyoyaTempest&color=2E51A2&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/kyoyatempest)
