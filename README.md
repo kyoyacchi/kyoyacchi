@@ -4,7 +4,7 @@
 [![Discord Server](https://discordapp.com/api/guilds/1020705385411264525/embed.png)](https://kyoyacchi.github.io/discord)
 
 
-[![Ai](https://us-east-1.tixte.net/uploads/kyoya.discowd.com/Ai.png)](https://kyoyacchi.github.io)
+[![Ai](https://us-east-1.tixte.net/uploads/kyoya.discowd.com/Ai.png)](https://kyoya.is-a.dev/)
 #
   <a href="https://discord.com/users/468509605828493322" target="_blank"><img align="center" alt="Discord"
         src="https://lanyard.cnrad.dev/api/468509605828493322?theme=dark&bg=3b0038&borderRadius=15px&animated=true&hideDiscrim=true&idleMessage=I'm%20probably%20watching%20anime" /></a>
