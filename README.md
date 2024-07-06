@@ -7,16 +7,14 @@
   
 
  **__Hi!__**
-<p> Hi there! I'm Kyoya! I love watching anime and coding (mostly spaghetti code)
+<p> Kon'nichiwa! I'm Kyoya! I love watching anime and coding (mostly spaghetti code)
 
 </p>
 
 
 <a href="https://anime.plus/KyoyaTempest">
-    <img src="https://anime.plus/KyoyaTempest/WzEsIjAwNDRmZjQ0IiwiMDAwMDg4MDAiLCIwMDAwNDQwMCIsIjAwMDA4ODAwIiwiMDAwMDAwMDAiLCIyMDQ0ZmY0NCIsIjAwMDA4ODAwIiwiMDAzM2FhMzMiLCIwMDMzYWEzMyJd/1695338297" alt="KyoyaTempest">
+    <img src="https://anime.plus/KyoyaTempest/WzEsIjAwNDRmZjQ0IiwiMDAwMDg4MDAiLCJkZDQ0ZmY0NCIsImRkMDBhYTAwIiwiZmZmZmZmZmYiLCIyMDIyNzcyMiIsIjkwMjI3NzIyIiwiMDAyMjc3MjIiLCIwMDIyNzcyMiJd/1720297925" alt="KyoyaTempest">
 </a>
-
-
 
 [![MyAnimeList](https://img.shields.io/static/v1?label=&message=KyoyaTempest&color=2E51A2&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/kyoyatempest)
 [![AniList](https://img.shields.io/static/v1?label=&message=kyoyacchi&color=02A9FF&logo=anilist&logoColor=white)](https://anilist.co/user/kyoyacchi/)
