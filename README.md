@@ -31,7 +31,7 @@
 ### 📈 Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kyoyacchi&color=800080&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kyoyacchi&color=800080" alt="Profile Views"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=kyoyacchi&show_icons=true&theme=radical&hide_border=false&border_color=800080&bg_color=0d1117&title_color=AF87DE&icon_color=AF87DE&text_color=c9d1d9" alt="Kyoya's GitHub Stats"/>
 </p>
