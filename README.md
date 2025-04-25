@@ -12,7 +12,7 @@
 ### ⚡ About Me
 
 * 💻 Mostly coding with **JavaScript, HTML, & CSS**. Building web things (usually spaghetti).
-* 💜 **Raiden Shogun** main in Genshin Impact (AR 57). Eternity is the closest thing to perfection.
+* 💜 **Raiden Shogun** main in Genshin Impact (AR 57). "Only through *Eternity* are you closest to the *Heavenly Principles*."
 * 🇯🇵 Learning **Japanese**.
 * 📚 Occasionally reading manga when I can focus. Used to watch a lot of anime (700+).
 * 🌍 Volunteer Turkish Translator 
