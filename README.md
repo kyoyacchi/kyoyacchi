@@ -15,6 +15,7 @@
 * 💜 **Raiden Shogun** main in Genshin Impact (AR 57). Eternity is the closest thing to perfection.
 * 🇯🇵 Learning **Japanese**.
 * 📚 Occasionally reading manga when I can focus. Used to watch a lot of anime (700+).
+* 🌍 Volunteer Turkish Translator 
 * 🔧 Currently working on my mental health.....
 
 <p align="center">
