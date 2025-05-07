@@ -1,8 +1,9 @@
-<div align="center">
+
 
 <a href="https://kyoya.is-a.dev/">
-  <img src="https://us-east-1.tixte.net/uploads/kyoya.discowd.com/Ai.png" alt="Ai Hoshino" width="600"/>
+  <h1><img src="https://us-east-1.tixte.net/uploads/kyoya.discowd.com/Ai.png" alt="Ai Hoshino" width="600"/></h1>
 </a>
+
 <h1>Hey, yoroshiku!!</h1>
 
 <p>
@@ -44,4 +45,4 @@ Also doing volunteer Turkish translation when I can.
   </a>
 </p>
 
-</div>
+
