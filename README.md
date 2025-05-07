@@ -3,33 +3,29 @@
 <a href="https://kyoya.is-a.dev/">
   <img src="https://us-east-1.tixte.net/uploads/kyoya.discowd.com/Ai.png" alt="Ai Hoshino" width="600"/>
 </a>
-<h1>Hi there, I'm Kyo (キョヤ) 👋</h1>
+<h1>Hey, yoroshiku!!</h1>
 
-<p>Just a student from Türkiye 🇹🇷 trying to balance Genshin Impact & coding.....</p>
+<p>
+Welcome to my GitHub profile! <br />
+I'm <b>Kyo"ya"</b>, but you can call me Kyo. <br /> 
+Hobby developer from 🇹🇷 Türkiye. <br />
+Mainly working with JS & HTML. I like coding (even if it's extremely spaghetti). <br />
+devoted Raiden Shogun main 💜<br/>
+<em>"Only through Eternity are you closest to the Heavenly Principles."</em><br/>
+Also doing volunteer Turkish translation when I can.
+</p>
 
 ---
-
-### ⚡ About Me
-
-* 💻 Mostly coding with **JavaScript, HTML, & CSS**. Building web things (usually spaghetti).
-* 💜 **Raiden Shogun** main in Genshin Impact (AR 57). "Only through *Eternity* are you closest to the *Heavenly Principles*."
-* 🇯🇵 Learning **Japanese**.
-* 📚 Occasionally reading manga when I can focus. Used to watch a lot of anime (700+).
-* 🌍 Volunteer Turkish Translator 
-* 🔧 Currently working on my mental health.....
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <a href="https://vercel.com" target="_blank">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   </a>
 </p>
 
 ---
-
-### 📈 Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kyoyacchi&color=800080" alt="Profile Views"/>
