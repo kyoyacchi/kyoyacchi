@@ -9,9 +9,17 @@
 
 <p>
 Welcome to my GitHub profile! <br />
-I'm <b>Kyo"ya"</b>, but you can call me Kyo. Hobby developer from 🇹🇷 Türkiye. Mainly working with JS & HTML. I like coding (even if it's extremely spaghetti). devoted Raiden Shogun main 💜 <em>"Only through Eternity are you closest to the Heavenly Principles."</em><br />
+I'm <b>Kyo"ya"</b>, but you can call me Kyo. Hobby developer from 🇹🇷 Türkiye. Mainly working with JS & HTML. I like coding (even if it's extremely spaghetti). devoted Raiden Shogun main 💜
+</p>
+
+<p>
+<em>"Only through Eternity are you closest to the Heavenly Principles."</em>
+</p>
+
+<p>
 Also doing volunteer Turkish translation when I can.
 </p>
+
 
 ---
 
