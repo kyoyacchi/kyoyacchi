@@ -13,8 +13,6 @@ I'm <b>Kyo"ya"</b>, but you can call me Kyo. Hobby developer from 🇹🇷 Türk
 Also doing volunteer Turkish translation when I can.
 </p>
 
-
-
 ---
 
 <p align="center">
