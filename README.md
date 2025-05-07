@@ -1,20 +1,19 @@
 
 
 <a href="https://kyoya.is-a.dev/">
-  <h1><img src="https://us-east-1.tixte.net/uploads/kyoya.discowd.com/Ai.png" alt="Ai Hoshino" width="600"/></h1>
+  <h1 align="center"><img src="https://us-east-1.tixte.net/uploads/kyoya.discowd.com/Ai.png" alt="Ai Hoshino"/></h1>
 </a>
+
 
 <h1>Hey, yoroshiku!!</h1>
 
 <p>
 Welcome to my GitHub profile! <br />
-I'm <b>Kyo"ya"</b>, but you can call me Kyo. <br /> 
-Hobby developer from 🇹🇷 Türkiye. <br />
-Mainly working with JS & HTML. I like coding (even if it's extremely spaghetti). <br />
-devoted Raiden Shogun main 💜<br/>
-<em>"Only through Eternity are you closest to the Heavenly Principles."</em><br/>
+I'm <b>Kyo"ya"</b>, but you can call me Kyo. Hobby developer from 🇹🇷 Türkiye. Mainly working with JS & HTML. I like coding (even if it's extremely spaghetti). devoted Raiden Shogun main 💜 <em>"Only through Eternity are you closest to the Heavenly Principles."</em><br />
 Also doing volunteer Turkish translation when I can.
 </p>
+
+
 
 ---
 
