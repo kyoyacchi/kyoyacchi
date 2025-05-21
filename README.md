@@ -12,7 +12,7 @@ Welcome to my GitHub profile! <br />
 I'm <b>Kyo"ya"</b>, but you can call me Kyo. <br />
 Hobby developer from 🇹🇷 Türkiye. <br />
 Mainly working with JS & HTML. I like coding (even if it's extremely spaghetti). <br />
-devoted Raiden Shogun main 💜
+devoted Raiden Shogun main 💜</br>
 Also doing volunteer Turkish translation when I can.
 </p>
 
