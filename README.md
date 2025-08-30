@@ -7,7 +7,6 @@
 <h1 align="center">Hey, yoroshiku!</h1>
 
 <p align="center">
-  Welcome to my GitHub profile.<br>
   I'm <b>Kyo"ya"</b>, but just call me <b>Kyo</b>.<br>
   Hobby dev from 🇹🇷 Türkiye, mostly JS & HTML.<br>
   <b>Raiden Shogun simp</b>.<br>
