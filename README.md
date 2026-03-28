@@ -4,7 +4,9 @@
   </h1>
 </a>
 
-<h1 align="center">Hey, yoroshiku 🌸!</h1>
+
+<h1 align="center">やあ、よろしく！🌸</h1>
+
 
 <p align="center">
   I'm <b>Kyo</b>, a frontend developer & open-source contributor from 🇹🇷 <b>Türkiye</b>.<br>
