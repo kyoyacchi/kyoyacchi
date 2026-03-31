@@ -49,5 +49,8 @@
   <b>1000+ strings translated</b> across multiple repos, including:<br><br>
   <a href="https://github.com/Notsfsssf/pixez-flutter"><b>pixez-flutter</b></a> 🎨 &nbsp;&bull;&nbsp;
   <a href="https://github.com/dead8309/Kizzy/"><b>Kizzy</b></a> 🎮<br><br>
+  &nbsp;&bull;&nbsp;
+  <a href="https://github.com/NO-ob/LoliSnatcher_Droid"><b>LoliSnatcher (Booru app)</b></a> 🖼️
+  
   <i>"If there's a typo in the Turkish translation, it was probably me."<br>(Jk, jk...)</i>
 </p>
