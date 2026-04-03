@@ -4,25 +4,25 @@
   </h1>
 </a>
 
-
 <h1 align="center">やあ、よろしく！🌸</h1>
 
-
 <p align="center">
-  I'm <b>Kyo</b>, a frontend developer & open-source contributor from 🇹🇷 <b>Türkiye</b>.<br>
-  I build personal projects, write Turkish localizations, and spend way too much time<br>
-  making websites that nobody asked for — including this one.<br>
+  Frontend developer & open-source contributor from 🇹🇷 <b>Türkiye</b>.<br>
+  Personal projects, Turkish localizations, and websites nobody asked for (including this one)
 </p>
 
 <p align="center">
-  <a href="https://kyoya.is-a.dev/"><img src="https://img.shields.io/badge/Website-black?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
-  <br>
   <a href="https://discord.com/users/468509605828493322"><img src="https://dcbadge.limes.pink/api/shield/468509605828493322" alt="Discord" /></a>
 </p>
 
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aller&pause=1000&color=F7F7F7&random=true&width=435&lines=Just+Monika.;Just+Monika.+OK." alt="Typing SVG" /></a>
+</p>
+
+
+<p align="center">
   <details>
-    <summary><code>&gt; Status: null</code></summary>
+    <summary><code>&gt; status: null</code></summary>
     <br>
     <code>while (true) { console.log("Just Monika."); }</code>
   </details>
@@ -30,7 +30,7 @@
 
 ---
 
-<h3 align="center">Tech Stack & Tools</h3>
+<h3 align="center">Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=green"/>
@@ -45,12 +45,8 @@
 
 <h3 align="center">Localization & Open Source</h3>
 <p align="center">
-  Turkish translator & contributor for various open-source Android & Discord projects.<br>
-  <b>1000+ strings translated</b> across multiple repos, including:<br><br>
+  Turkish translator & contributor for open-source Android apps.<br><br>
   <a href="https://github.com/Notsfsssf/pixez-flutter"><b>pixez-flutter</b></a> 🎨 &nbsp;&bull;&nbsp;
-  <a href="https://github.com/dead8309/Kizzy/"><b>Kizzy</b></a> 🎮<br><br>
-  &nbsp;&bull;&nbsp;
-  <a href="https://github.com/NO-ob/LoliSnatcher_Droid"><b>LoliSnatcher (Booru app)</b></a> 🖼️
-  
-  <i>"If there's a typo in the Turkish translation, it was probably me."<br>(Jk, jk...)</i>
+  <a href="https://github.com/dead8309/Kizzy/"><b>Kizzy</b></a> 🎮 &nbsp;&bull;&nbsp;
+  <a href="https://github.com/NO-ob/LoliSnatcher_Droid"><b>LoliSnatcher</b></a> 🖼️
 </p>
