@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aller&pause=1000&color=F7F7F7&random=true&width=435&lines=Just+Monika.;Just+Monika.+OK." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Aller&pause=1000&color=1BC734FF&random=true&width=435&lines=Just+Monika.;Just+Monika.+OK." alt="Typing SVG" /></a>
 </p>
 
 
