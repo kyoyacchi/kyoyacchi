@@ -48,5 +48,7 @@
   Turkish translator & contributor for open-source Android apps.<br><br>
   <a href="https://github.com/Notsfsssf/pixez-flutter"><b>pixez-flutter</b></a> 🎨 &nbsp;&bull;&nbsp;
   <a href="https://github.com/dead8309/Kizzy/"><b>Kizzy</b></a> 🎮 &nbsp;&bull;&nbsp;
-  <a href="https://github.com/NO-ob/LoliSnatcher_Droid"><b>LoliSnatcher</b></a> 🖼️
+  <a href="https://github.com/NO-ob/LoliSnatcher_Droid"><b>LoliSnatcher</b></a> 🖼️ &nbsp;&bull;&nbsp;
+  <a href="https://github.com/parallelcc/MiCTS"><b>MiCTS</b></a> 🔍
+  
 </p>
