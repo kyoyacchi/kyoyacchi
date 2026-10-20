@@ -12,7 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/468509605828493322"><img src="https://dcbadge.limes.pink/api/shield/468509605828493322" alt="Discord" /></a>
+  <a href="https://github.com/kyoyacchi">
+    <img src="https://github-readme-stats.vercel.app/api?username=kyoyacchi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
@@ -40,9 +42,9 @@
 <h3 align="center">Localization & Open Source</h3>
 <p align="center">
   Turkish translator & contributor for open-source Android apps.<br><br>
-  <a href="https://github.com/Notsfsssf/pixez-flutter"><b>PixEz</b></a> 🎨 &nbsp;&bull;&nbsp;
-  <a href="https://github.com/dead8309/Kizzy/"><b>Kizzy RPC</b></a> 🎮 &nbsp;&bull;&nbsp;
-  <a href="https://github.com/NO-ob/LoliSnatcher_Droid"><b>LoliSnatcher</b></a> 🖼️ &nbsp;&bull;&nbsp;
-  <a href="https://github.com/parallelcc/MiCTS"><b>MiCTS</b></a> 🔍
+  <a href="https://github.com/Notsfsssf/pixez-flutter"><b>PixEz</b></a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/dead8309/Kizzy/"><b>Kizzy RPC</b></a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/NO-ob/LoliSnatcher_Droid"><b>LoliSnatcher</b></a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/parallelcc/MiCTS"><b>MiCTS</b></a>
   
 </p>
