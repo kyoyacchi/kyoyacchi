@@ -20,13 +20,7 @@
 </p>
 
 
-<p align="center">
-  <details>
-    <summary><code>&gt; status: null</code></summary>
-    <br>
-    <code>while (true) { console.log("Just Monika."); }</code>
-  </details>
-</p>
+
 
 ---
 
