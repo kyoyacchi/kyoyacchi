@@ -12,9 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kyoyacchi">
-    <img src="https://github-readme-stats.vercel.app/api?username=kyoyacchi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyoyacchi&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kyoyacchi&theme=tokyonight&border_radius=7&card_height=290" width="48%"/>
 </p>
 
 <p align="center">
