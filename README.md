@@ -7,7 +7,7 @@
 <h1 align="center">やあ、よろしく！🌸</h1>
 
 <p align="center">
-  Frontend developer & open-source contributor from 🇹🇷 <b>Türkiye</b>.<br>
+  Frontend developer & open-source contributor.<br>
   Personal projects, Turkish localizations, and websites nobody asked for (including this one)
 </p>
 
